@@ -1,0 +1,4 @@
+Now the file has more content!F,.C,py,java,bin,pdf,mp4,jpeg
+ file access method:
+ read,write,append
+ Now the file has more content!Now the file has more content!Now the file has more content!
